@@ -1,4 +1,4 @@
-#Materias Aprobadas
+# Materias Aprobadas
 Algoritmos 
 Fisca
 Practicum
